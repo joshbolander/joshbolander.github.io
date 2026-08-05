@@ -11,4 +11,4 @@ The following code review examines the original WeightTracker application
 and identifies opportunities for improvement in software design and
 engineering, algorithms and data structures, and databases.
 
-[Watch My Code Review Video] https://youtu.be/-vnV-_YOrPY
+[Watch My Code Review Video](https://youtu.be/-vnV-_YOrPY)
