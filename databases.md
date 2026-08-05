@@ -17,4 +17,4 @@ session information.
 
 - [Download the Application Before This Enhancement](Enhanced_Milestone_Three.zip)
 - [Download the Final Enhanced Application](Enhanced_Milestone_Four.zip)
-- [Download the Narrative as a Word Document](CS%20499%20Milestone%20Four%20Narrative.docx)
+- [Download the Narrative as a Word Document](CS%20499%20Milestone%204%20Narrative.docx)
