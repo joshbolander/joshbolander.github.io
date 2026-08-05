@@ -14,7 +14,7 @@ engineering, algorithms and data structures, and databases.
 
 ### Professional Self-Assessment
 
-[Read My Professional Self-Assessment](professional-self-assessment.html)
+<a href="Professional%20Self-Assessment.docx" download>Download My Professional Self-Assessment (Word Document)</a>
 
 ### Code Review
 
